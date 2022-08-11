@@ -20,3 +20,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
+bootstrap:
+  hostname: localhost
+  port: 9092
